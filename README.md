@@ -7,4 +7,4 @@ My ricing for:
 - dwmblocks
 
 Screenshot:
-<img src="screenshot.png" />
+<img src="screenshot.png" alt="Screenshot" />
