@@ -5,3 +5,6 @@ My ricing for:
 - dmenu
 - st
 - dwmblocks
+
+Screenshot:
+<img src="screenshot.png" />
